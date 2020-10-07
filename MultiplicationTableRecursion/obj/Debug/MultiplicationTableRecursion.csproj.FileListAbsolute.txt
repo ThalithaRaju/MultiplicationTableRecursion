@@ -1,0 +1,7 @@
+C:\Users\Thalitha\source\repos\MultiplicationTableRecursion\MultiplicationTableRecursion\bin\Debug\MultiplicationTableRecursion.exe.config
+C:\Users\Thalitha\source\repos\MultiplicationTableRecursion\MultiplicationTableRecursion\bin\Debug\MultiplicationTableRecursion.exe
+C:\Users\Thalitha\source\repos\MultiplicationTableRecursion\MultiplicationTableRecursion\bin\Debug\MultiplicationTableRecursion.pdb
+C:\Users\Thalitha\source\repos\MultiplicationTableRecursion\MultiplicationTableRecursion\obj\Debug\MultiplicationTableRecursion.csprojAssemblyReference.cache
+C:\Users\Thalitha\source\repos\MultiplicationTableRecursion\MultiplicationTableRecursion\obj\Debug\MultiplicationTableRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Thalitha\source\repos\MultiplicationTableRecursion\MultiplicationTableRecursion\obj\Debug\MultiplicationTableRecursion.exe
+C:\Users\Thalitha\source\repos\MultiplicationTableRecursion\MultiplicationTableRecursion\obj\Debug\MultiplicationTableRecursion.pdb
